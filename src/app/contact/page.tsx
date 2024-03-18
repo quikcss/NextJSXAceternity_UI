@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div className="w-full h-screen overflow-hidden flex justify-center items-center">
       <div>
-        <h1 className="text-5xl font-medium">This is a Contact Us Section</h1>
+        <h1 className="text-5xl font-medium z-10">This is a Contact Us Section</h1>
         <input
           type="text"
           placeholder="Enter Your Name"
